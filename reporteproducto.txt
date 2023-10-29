@@ -1,0 +1,7 @@
+Reporte de Ventas por Clientes:
+Codigo de Clientes: C002
+Ventas Totales: Q100.0
+------------------------------
+Codigo de Clientes: C001
+Ventas Totales: Q655.0
+------------------------------

@@ -1,0 +1,2 @@
+C002,Pedro,Noruega
+C001,Angel Barrientos,Mexico

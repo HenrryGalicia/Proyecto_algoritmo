@@ -1,0 +1,6 @@
+P003,huevos,2000,Sandios,19.2
+P004,Pan,200,Grandia,20.99
+P006,Papel,300,Grandia,5.0
+P007,Frijol,300,Sandias,20.40
+P001,Fideos,30,Sanpredo,50.48
+P009,AGUA,52,ADIOS,12.22

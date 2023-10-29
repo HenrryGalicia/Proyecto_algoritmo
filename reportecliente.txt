@@ -1,0 +1,10 @@
+Reporte de Ventas por producto:
+Codigo de Producto: P002
+Ventas Totales: Q300.0
+------------------------------
+Codigo de Producto: P003
+Ventas Totales: Q300.0
+------------------------------
+Codigo de Producto: P001
+Ventas Totales: Q155.0
+------------------------------
